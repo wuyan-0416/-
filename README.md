@@ -1,2 +1,4 @@
-# -
-无
+list.append()
+list.extend()
+list.insert()
+list.remove()
